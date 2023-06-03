@@ -33,8 +33,6 @@ Before proceeding, ensure that you have the following software installed:
    npm install
    ```
 
-2. Open the `.env` file in a text editor and update the configuration values as needed.
-
 ### Running the Application
 
 1. Start the development server:
